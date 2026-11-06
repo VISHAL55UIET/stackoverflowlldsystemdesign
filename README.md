@@ -9,7 +9,7 @@ Folder layout follows your repository: `demo / dto / enums / model / repository 
 
 **Functional**
 1. Users register (unique email) and have a reputation score.
-2. Users ask questions with 1-5 tags, and answer questions.
+2. Users ask questions with 1-5 tags, and answer questions..
 3. Users comment on questions and answers.
 4. Users upvote / downvote questions and answers (one vote per user per post, cannot vote on own post, same vote again = undo, opposite vote = switch).
 5. The question author can accept exactly one answer (changing it reverses the old reputation).
